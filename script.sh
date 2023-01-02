@@ -1,0 +1,1 @@
+/usr/bin/curl --silent http://scraper:5001/startscrape/
